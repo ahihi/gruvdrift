@@ -11,4 +11,4 @@ parameters: flanger delay, flanger amount, distortion, volume
 **instrument 3 - generative additive synth pad**  
 parameters: pitch randomization, volume
 
-course project for Sound and Music Interaction @ Aalto Media Lab, sprint 2019
+course project for Sound and Music Interaction @ Aalto Media Lab, spring 2019
